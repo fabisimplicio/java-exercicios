@@ -5,7 +5,7 @@ import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
 
-public class Tempo {
+public class Data {
     public static void main(String[] args) {
 
         LocalDate dataAtual = LocalDate.now();
