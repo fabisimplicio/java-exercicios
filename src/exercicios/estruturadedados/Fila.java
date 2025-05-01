@@ -1,4 +1,4 @@
-package exercicios.estrutura.de.dados;
+package exercicios.estruturadedados;
 
 public class Fila {
 

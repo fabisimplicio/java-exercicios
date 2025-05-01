@@ -1,3 +1,4 @@
+package exercicios.basicos;
 import java.util.Scanner;
 
 public class Wally {
